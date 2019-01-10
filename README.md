@@ -17,6 +17,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Plugins](#plugins) 
 * [Templates & UI Kits](#templates--ui-kits)
 * [Services](#services)
+* [Integration](#integration)
 * [Other](#other)
 
 ## Videos
@@ -37,6 +38,9 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Services
 - [Zeplin](https://zeplin.io) – design, prototyping and collaboration
+
+## Integration
+- [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) - Embed Figma designs in a storybook panel
 
 
 ## Other
