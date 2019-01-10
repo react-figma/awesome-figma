@@ -7,3 +7,44 @@ A curated list of awesome Sketch videos, articles, plugins, whatever, for design
 Found something cool? Please, **[contribute](contributing.md)**!
 
 --
+
+* [Videos](#videos) :movie_camera:
+* [Guides](#guides) :blue_book:
+* [Articles](#articles) :newspaper:
+  * [Tips and Tricks](#tips-and-tricks)
+  * [Tutorials](#tutorials)
+* [Community](#community) :sunglasses:
+* [Plugins](#plugins) :electric_plug:
+* [Templates & UI Kits](#templates--ui-kits) :scissors:
+* [Services](#services)
+* [Other](#other)
+
+## Videos
+
+## Guides
+
+## Articles
+###### Tips and Tricks
+
+###### Tutorials
+
+## Community
+
+## Plugins
+
+## Templates & UI Kits
+
+## Services
+- [Zeplin](https://zeplin.io) – design, prototyping and collaboration
+
+
+## Other
+
+
+---
+
+###### LICENSE
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Ilya Lesik](https://github.com/ilyalesik) has waived all copyright and related or neighboring rights to this work.
