@@ -45,6 +45,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 
 ## Other
+- [Figma Tips](https://t.me/figmatips) - :ru: Telegram channel about Figma. News, tips, resources.
 
 
 ---
