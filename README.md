@@ -33,6 +33,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Community
 
 ## Plugins
+- [figma-plugins](https://github.com/PaperTiger/figma-plugins) - The unofficial plugins panel for Figma App.
 
 ## Templates & UI Kits
 
