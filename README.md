@@ -31,6 +31,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Introducing: Figma to React](https://www.figma.com/blog/introducing-figma-to-react/)
 
 ## Community
+- [https://t.me/figmachat](:ru: Фигма Чат) - Telegram chat
 
 ## Plugins
 - [figma-plugins](https://github.com/PaperTiger/figma-plugins) - The unofficial plugins panel for Figma App.
