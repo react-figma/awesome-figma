@@ -8,14 +8,14 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 --
 
-* [Videos](#videos) :movie_camera:
-* [Guides](#guides) :blue_book:
-* [Articles](#articles) :newspaper:
+* [Videos](#videos) 
+* [Guides](#guides) 
+* [Articles](#articles) 
   * [Tips and Tricks](#tips-and-tricks)
   * [Tutorials](#tutorials)
-* [Community](#community) :sunglasses:
-* [Plugins](#plugins) :electric_plug:
-* [Templates & UI Kits](#templates--ui-kits) :scissors:
+* [Community](#community) 
+* [Plugins](#plugins) 
+* [Templates & UI Kits](#templates--ui-kits)
 * [Services](#services)
 * [Other](#other)
 
@@ -27,6 +27,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ###### Tips and Tricks
 
 ###### Tutorials
+- [Introducing: Figma to React](https://www.figma.com/blog/introducing-figma-to-react/)
 
 ## Community
 
