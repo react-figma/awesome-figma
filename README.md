@@ -47,6 +47,9 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Integration
 - [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) - Embed Figma designs in a storybook panel
 
+## Clients
+- [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) - Figma, Snap Package (unofficial)
+
 
 ## Other
 - [Figma Tips](https://t.me/figmatips) - :ru: Telegram channel about Figma. News, tips, resources.
