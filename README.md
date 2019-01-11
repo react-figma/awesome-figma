@@ -21,6 +21,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Other](#other)
 
 ## Videos
+###### Tutorials
+- [Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome.](https://www.youtube.com/watch?v=3q3FV65ZrUs)
 
 ## Guides
 
