@@ -2,7 +2,7 @@
 
 > [**Figma**](https://www.figma.com/) has become very popular in the Design community. How much do you know about it?
 
-A curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
+A curated list of awesome Figma videos, articles, plugins, whatever, for designers, developers, or neither.
 
 Found something cool? Please, **[contribute](contributing.md)**!
 
