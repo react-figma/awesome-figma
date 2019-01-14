@@ -51,6 +51,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Figma.js](https://github.com/jongold/figma-js) - A simple JS wrapper for the Figma API
 - [figma-graphql](https://github.com/braposo/figma-graphql) - A GraphQL connector for the Figma API
 - [Figma-To-Pdf](https://github.com/gweltaz-calori/Figma-To-Pdf) - A simple demo of exporting pdf from figma using the API.
+- [figma-theme](https://github.com/jxnblk/figma-theme) - Generate development-ready theme JSON files from Figma Styles
 
 ## Clients
 - [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) - Figma, Snap Package (unofficial)
