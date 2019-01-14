@@ -54,6 +54,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Clients
 - [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) - Figma, Snap Package (unofficial)
+- [figma-linux](https://github.com/ChugunovRoman/figma-linux) - Figma electron app (unofficial)
 
 
 ## Other
