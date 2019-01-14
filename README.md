@@ -48,6 +48,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) - Embed Figma designs in a storybook panel
 - [figma-api-demo](https://github.com/figma/figma-api-demo) - This project contains demo apps using the Figma API.
 - [Figma.js](https://github.com/jongold/figma-js) - A simple JS wrapper for the Figma API
+- [figma-graphql](https://github.com/braposo/figma-graphql) - A GraphQL connector for the Figma API
 
 ## Clients
 - [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) - Figma, Snap Package (unofficial)
