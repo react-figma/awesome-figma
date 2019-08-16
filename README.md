@@ -33,6 +33,15 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Introducing: Figma to React](https://www.figma.com/blog/introducing-figma-to-react/)
 
 ## Community
+- [Figma: the collaborative interface design tool.](https://www.figma.com)
+- [The Official Blog of Figma](https://www.figma.com/blog/)
+- [Figma Help](https://help.figma.com)
+- [Design Dictionary from Figma](https://www.figma.com/dictionary/)
+- [Figma YouTube](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
+- [Spectrum](https://spectrum.chat/figma?tab=posts)
+- [Design Systems articles on building and maintaining design systems](https://www.designsystems.com)
+- [Figma - Medium](https://medium.com/@figmadesign)
+- [Figma Design - Medium](https://medium.com/figma-design)
 - [:ru: Telegram Figma Chat](https://t.me/figmachat)
 
 ## Plugins
