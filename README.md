@@ -41,7 +41,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ###### Moving from Sketch
 
 - [Design At Scale: One Year With Figma - Smashing Magazine](https://www.smashingmagazine.com/2019/04/design-scale-figma/)[Our first 6 months with Figma - mendesaltaren - Medium](https://medium.com/mendesaltaren/our-first-6-months-with-figma-aef60cae5d89)
-- [](https://twitter.com/housseynoufall/status/1141557971660550144?s=12)
 - [Figma Livestream - From Sketch to Figma](https://www.youtube.com/watch?v=LI_QZr4MKL8&utm_content=buffer5cd7c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Figma for Sketch users](https://automattic.design/2019/05/15/figma-for-sketch-users/)
 - [A Sketch user's perspective on switching to Figma](https://www.figma.com/blog/a-sketch-users-perspective-on-switching-to-figma/)
@@ -51,12 +50,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [UI Designer's Toolbox, Part II: How Figma and Adobe XD Compare to Sketch](https://journal.missiondata.com/ui-designers-toolbox-part-ii-how-figma-and-adobe-xd-compare-to-sketch-dfaeee39a522)
 - [Why your design team should consider switching to Figma](https://blog.statsbot.co/why-your-design-team-should-consider-switching-to-figma-3d8962d08a5d)
 - [Why I left Sketch + Invision like a old sock. (or why I love Figma) - Medium](https://medium.com/@tyrale/why-i-left-sketch-invision-like-a-old-sock-or-why-i-love-figma-86373ee3f21d)
-- [](https://www.zomato.com/blog/why-we-switched-to-figma-as-a-primary-design-tool-at-zomato)
  
 ###### Grids
 
-[Everything you need to know about layout grids in Figma](https://www.figma.com/blog/everything-you-need-to-know-about-layout-grids-in-figma/?utm_content=bufferd2fb7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-[Grid Systems for Screen Design](https://www.figma.com/blog/grid-systems-for-screen-design/)
+- [Everything you need to know about layout grids in Figma](https://www.figma.com/blog/everything-you-need-to-know-about-layout-grids-in-figma/?utm_content=bufferd2fb7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Grid Systems for Screen Design](https://www.figma.com/blog/grid-systems-for-screen-design/)
 
 ###### Version Control, Components & Design Systems
 
@@ -66,7 +64,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Versioning design system with Figma, take two](https://rojcyk.com/blog/how-we-version-our-design-system-with-figma-take-two/)
 - [How we handle Kiwi.com's design system with Figma](https://rojcyk.com/blog/how-we-handle-kiwicom-design-system-with-figma/)
 - [Creating atomic components in Figma - Figma Design - Medium](https://medium.com/figma-design/creating-atomic-components-in-figma-acac9c28751e)
-- [](https://medium.com/@johan_ronsse/creating-a-design-system-in-figma-the-not-so-definite-guide-tutorial-1-8aa6801101cb)
 - [Best practices: component, styles, and shared libraries](https://www.figma.com/blog/component-styles-and-shared-library-best-practices/#organizing-components-in-a-library)
 - [Creating Atomic Components That Will Blow Your Mind - an article by Paul Hanaoka on Liferay.Design](https://liferay.design/articles/2019/creating-atomic-components-in-figma/)
 - [Getting Started with Components - Figma](https://help.figma.com/article/66-components)
@@ -85,7 +82,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Figma Freebies - Free UI Kits & Figma Resources](https://www.figmafreebies.com)
 - [Figma Resources & UI Kits - Figma Finder](https://www.figmafinder.com)
 - [Community Resources Hub](https://www.figma.com/resources/)
-- [](https://www.figmaresources.com)
 - [Liferay Design | Articles, Events, and Resources for the Open Source Design Community](https://liferay.design/resources/figma/)
 - [User Flow Template for Figma](https://dribbble.com/shots/5327988-User-Flow-Template-for-Figma)
 - [Tables Constructor](https://setproduct.com/material/tables?from=dribbble)
