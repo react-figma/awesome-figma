@@ -23,6 +23,9 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Videos
 ###### Tutorials
 - [Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome.](https://www.youtube.com/watch?v=3q3FV65ZrUs)
+- [Figma Tutorial: Team Library](https://www.youtube.com/watch?v=PgRUEyw9xpo)
+- [Multiplayer Live - Vector Networks](https://www.youtube.com/watch?v=N6cOAYeWfRM&utm_content=buffer56c69&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Figma Livestream-Zeroheight's Figma integration](https://www.youtube.com/watch?v=TlcQvhbpejg)
 
 ## Guides
 
