@@ -13,6 +13,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Articles](#articles) 
   * [Tips and Tricks](#tips-and-tricks)
   * [Tutorials](#tutorials)
+  * [Others](#others)
 * [Community](#community) 
 * [Plugins](#plugins) 
 * [Templates & UI Kits](#templates--ui-kits)
@@ -30,10 +31,79 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Guides
 
 ## Articles
-###### Tips and Tricks
+#### Tips and Tricks
 
-###### Tutorials
+#### Tutorials
 - [Introducing: Figma to React](https://www.figma.com/blog/introducing-figma-to-react/)
+
+#### Others
+
+###### Moving from Sketch
+
+- [Design At Scale: One Year With Figma - Smashing Magazine](https://www.smashingmagazine.com/2019/04/design-scale-figma/)[Our first 6 months with Figma - mendesaltaren - Medium](https://medium.com/mendesaltaren/our-first-6-months-with-figma-aef60cae5d89)
+- [](https://twitter.com/housseynoufall/status/1141557971660550144?s=12)
+- [Figma Livestream - From Sketch to Figma](https://www.youtube.com/watch?v=LI_QZr4MKL8&utm_content=buffer5cd7c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Figma for Sketch users](https://automattic.design/2019/05/15/figma-for-sketch-users/)
+- [A Sketch user's perspective on switching to Figma](https://www.figma.com/blog/a-sketch-users-perspective-on-switching-to-figma/)
+- [What to expect when moving from Sketch to Figma](https://www.figma.com/blog/what-to-expect-when-moving-from-sketch-to-figma/?utm_content=buffer4593c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Why we moved from Sketch to Figma](https://blog.smarkup.com/why-we-moved-from-sketch-to-figma-fa65ee202dd)
+- [Figma Vs. Sketch - Ben Kopf - Medium](https://medium.com/@benkopf20/figma-vs-sketch-fd78a2226186)
+- [UI Designer's Toolbox, Part II: How Figma and Adobe XD Compare to Sketch](https://journal.missiondata.com/ui-designers-toolbox-part-ii-how-figma-and-adobe-xd-compare-to-sketch-dfaeee39a522)
+- [Why your design team should consider switching to Figma](https://blog.statsbot.co/why-your-design-team-should-consider-switching-to-figma-3d8962d08a5d)
+- [Why I left Sketch + Invision like a old sock. (or why I love Figma) - Medium](https://medium.com/@tyrale/why-i-left-sketch-invision-like-a-old-sock-or-why-i-love-figma-86373ee3f21d)
+- [](https://www.zomato.com/blog/why-we-switched-to-figma-as-a-primary-design-tool-at-zomato)
+ 
+###### Grids
+
+[Everything you need to know about layout grids in Figma](https://www.figma.com/blog/everything-you-need-to-know-about-layout-grids-in-figma/?utm_content=bufferd2fb7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+[Grid Systems for Screen Design](https://www.figma.com/blog/grid-systems-for-screen-design/)
+
+###### Version Control, Components & Design Systems
+
+- [Components in Figma - Figma Design - Medium](https://medium.com/figma-design/components-in-figma-e7e80fcf6fd2)
+- [Component architecture in Figma](https://www.figma.com/blog/component-architecture-in-figma/)
+- [Building flexible components in Figma - Thomas Lowry - Medium](https://medium.com/@nspace/building-flexible-components-in-figma-41113aa69493)
+- [Versioning design system with Figma, take two](https://rojcyk.com/blog/how-we-version-our-design-system-with-figma-take-two/)
+- [How we handle Kiwi.com's design system with Figma](https://rojcyk.com/blog/how-we-handle-kiwicom-design-system-with-figma/)
+- [Creating atomic components in Figma - Figma Design - Medium](https://medium.com/figma-design/creating-atomic-components-in-figma-acac9c28751e)
+- [](https://medium.com/@johan_ronsse/creating-a-design-system-in-figma-the-not-so-definite-guide-tutorial-1-8aa6801101cb)
+- [Best practices: component, styles, and shared libraries](https://www.figma.com/blog/component-styles-and-shared-library-best-practices/#organizing-components-in-a-library)
+- [Creating Atomic Components That Will Blow Your Mind - an article by Paul Hanaoka on Liferay.Design](https://liferay.design/articles/2019/creating-atomic-components-in-figma/)
+- [Getting Started with Components - Figma](https://help.figma.com/article/66-components)
+- [Mini Tutorials - Working with Figma Button Components](https://www.toptal.com/designers/ui/figma-button-component)
+- [Some Tips for Getting Started with Styles, Components, and Libraries · Figma](https://spectrum.chat/figma/design-systems/some-tips-for-getting-started-with-styles-components-and-libraries~05b915a3-fa5c-4f11-adbf-cd44ae386294?utm_content=buffer09418&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Design System for Figma - The Power of Dynamic Elements - Medium](https://medium.com/@juauz/design-system-for-figma-the-power-of-dynamic-elements-4ca4dc3e4524)
+- [Tables UI design in Figma: data grid by a single component](https://uxdesign.cc/tables-ui-design-in-figma-data-grid-by-a-single-component-5d2c76c16f8)
+
+###### Typography
+- [Getting to the bottom of line height in Figma](https://www.figma.com/blog/line-height-changes/?utm_content=buffer1fb69&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Kick-start your typography system in Figma](https://www.figma.com/blog/kick-start-your-typography-system-in-figma/?utm_content=buffer19007&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Figma: A Fluid and Modular Design Approach to Typography with Components](https://insights.papertiger.com/figma-a-fluid-and-modular-design-approach-to-typography-with-components-a9feef8e84a6)
+- [Google Font Pairings](https://www.figma.com/google-fonts/)
+
+###### Templates & Resources
+- [Figma Freebies - Free UI Kits & Figma Resources](https://www.figmafreebies.com)
+- [Figma Resources & UI Kits - Figma Finder](https://www.figmafinder.com)
+- [Community Resources Hub](https://www.figma.com/resources/)
+- [](https://www.figmaresources.com)
+- [Liferay Design | Articles, Events, and Resources for the Open Source Design Community](https://liferay.design/resources/figma/)
+- [User Flow Template for Figma](https://dribbble.com/shots/5327988-User-Flow-Template-for-Figma)
+- [Tables Constructor](https://setproduct.com/material/tables?from=dribbble)
+- [Figma table component - FigmaCrush.com](https://www.figmacrush.com/figma-table-component/)
+- [Grid Component by Glen Lipka](https://www.figmaresources.com/resources/PswzWqCfihBSpoo7X)
+- [Free Figma Covers](https://dribbble.com/shots/6394727-Free-Figma-Covers)
+- [Mateusz Wierzbicki](https://gumroad.com/mateusz#)
+- [Material Design Theme Kit](https://www.figma.com/file/8dbmFxPJdkh6FLxwSyCRiC/Material-Design-Theme-Kit/duplicate)
+
+###### Constraints & Responsive Design
+- [5 essential ways to use design constraints](https://www.figma.com/blog/five-essential-ways-to-use-design-constraints/)
+- [The concept of Breakpoints. Pain reliever in Figma](https://uxplanet.org/figma-breakpoints-concept-f9b188f2bd79)
+- [Figma Tutorial: Constraints](https://www.youtube.com/watch?v=rRQAQ1d9q9w)
+
+###### Prototyping
+- [4 Figma Tips For Prototyping Like A Pro](https://blog.prototypr.io/4-figma-tips-for-prototyping-like-a-pro-c08a3228ff87)
+- [5 ways to level up your prototyping workflow in Figma](https://www.figma.com/blog/proto-gp-5-ways-to-level-up-your-prototyping-workflow/?utm_content=buffer5d15a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 
 ## Community
 - [Figma: the collaborative interface design tool.](https://www.figma.com)
