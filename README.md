@@ -68,6 +68,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Templates & UI Kits
 
+- [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) - An unofficial set of Figma UI components
+
 ## Services
 - [Zeplin](https://zeplin.io) – design, prototyping and collaboration
 - [Avocode](https://avocode.com) – get CSS, export assets, measure and handpick colors.
