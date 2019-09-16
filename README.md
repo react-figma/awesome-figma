@@ -155,6 +155,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Figma PDF](https://figma-pdf.gweltaz-calori.com/) - Figma to PDF converter.
 
 ## Integration
+- [react-figma](https://github.com/react-figma/react-figma) - Render React components to Figma
 - [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) - Embed Figma designs in a storybook panel
 - [figma-api-demo](https://github.com/figma/figma-api-demo) - This project contains demo apps using the Figma API.
 - [Figma.js](https://github.com/jongold/figma-js) - A simple JS wrapper for the Figma API
