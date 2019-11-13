@@ -144,6 +144,12 @@ Found something cool? Please, **[contribute](contributing.md)**!
 #### Plugins for tools
 * [Bravo](https://www.figma.com/c/plugin/735163770654733921/Bravo) — build your app designs in Figma with Bravo elements, import it into Bravo, and your design is transformed into a real native app. 
 
+## Plugins development
+* [figma-jsonrpc](https://github.com/Lona/figma-jsonrpc) - Leverage JSON-RPC to communicate between your Figma plugin and your Figma UI.
+* [figma-api-stub](https://github.com/react-figma/figma-api-stub) - Figma API Stub
+* [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) - Unofficial set of Figma UI components
+* [figma-styled-components](https://github.com/jhardy/figma-styled-components) - Figma UI styled components
+
 ## Templates & UI Kits
 
 - [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) - An unofficial set of Figma UI components
