@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "awesome-figma",
+  "scripts": {
+    "test": "yaspeller-ci *.md"
+  },
+  "devDependencies": {
+    "yaspeller": "6.0.2",
+    "yaspeller-ci": "1.0.1"
+  }
+}
