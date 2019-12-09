@@ -42,6 +42,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [react-figma](https://github.com/react-figma/react-figma) - Render React components to Figma
 - [figma-jsonrpc](https://github.com/Lona/figma-jsonrpc) - Leverage JSON-RPC to communicate between your Figma plugin and your Figma UI.
 - [figma-api-stub](https://github.com/react-figma/figma-api-stub) - Figma API Stub
+- [figplug](https://github.com/rsms/figplug) - Figma plugin builder
 
 ## Templates & UI Kits
 
