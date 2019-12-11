@@ -35,6 +35,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Themer](https://github.com/thomas-lowry/themer) - A Figma plugin designed to allow you to swap between styles named the same from different published libraries.
 - [figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) - A list of Figma Plugins that have been shared on Github.
 - [Figlight](https://github.com/jeetiss/figlight) - Code highlighter for Figma
+- [FigmaThird](https://github.com/ahkohd/FigmaThird) - Import, lit and use 3D models right there in Figma
+- [svg-to-jsx](https://github.com/SaraVieira/svg-to-jsx) - Figma plugin to copy svg as a react component
 
 
 ## Plugins development
