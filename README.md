@@ -45,6 +45,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [figma-jsonrpc](https://github.com/Lona/figma-jsonrpc) - Leverage JSON-RPC to communicate between your Figma plugin and your Figma UI.
 - [figma-api-stub](https://github.com/react-figma/figma-api-stub) - Figma API Stub
 - [figplug](https://github.com/rsms/figplug) - Figma plugin builder
+- [figma-messenger](https://github.com/okotoki/figma-messenger) - Type-safe iframe - main thread communication
 
 ## Templates & UI Kits
 
