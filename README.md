@@ -47,6 +47,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [figma-api-stub](https://github.com/react-figma/figma-api-stub) - Figma API Stub
 - [figplug](https://github.com/rsms/figplug) - Figma plugin builder
 - [figma-messenger](https://github.com/okotoki/figma-messenger) - Type-safe iframe - main thread communication
+- [figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) - A collection of useful helper functions to import to your Figma plugin project
 
 ## Templates & UI Kits
 
