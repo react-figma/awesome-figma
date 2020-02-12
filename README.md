@@ -9,7 +9,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 --
 
 * [Videos](#videos) 
-* [Guides](#guides) 
 * [Articles](#articles) 
 * [Community](#community) 
 * [Plugins](#open-source-plugins) 
@@ -19,11 +18,25 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Videos
 
-## Guides
+* [Figma Tips & Tricks - UI Designer's Superpower](https://www.youtube.com/watch?v=Vo0sEPqArRQ)
+* [Figma Plugins Show & Tell](https://www.youtube.com/watch?v=i6ppX9fjXz0)
+* [Figma Plugins: My Top 5 Favourite Figma Plugins](https://www.youtube.com/watch?v=LiqKIeH9Sdk)
+* [How I used Figma to design awesome Website UI](https://www.youtube.com/watch?v=m0sHva0JjZE)
+* [Design A Website In Under 1 Hour With Figma](https://www.youtube.com/watch?v=FK4YusHIIj0)
+* [Sketch vs Figma - Why I switched!](https://www.youtube.com/watch?v=wIyhqEra7Sc)
 
 ## Articles
 
 - [Introducing: Figma to React](https://www.figma.com/blog/introducing-figma-to-react/)
+- [Adobe XD vs Sketch vs Figma vs InVision](https://dev.to/creativetim_official/adobe-xd-vs-sketch-vs-figma-vs-invision-1pfc)
+- [Our Review of Figma, the Google Docs for Designers!](https://usersnap.com/blog/review-figma/)
+- [Building A Component Library Using Figma](https://www.smashingmagazine.com/2019/06/building-component-library-figma/)
+- [Sketch vs Figma, Adobe XD, And Other UI Design Applications](https://www.smashingmagazine.com/2019/04/sketch-figma-adobe-xd-ui-design-applications/)
+- [Component architecture in Figma](https://www.figma.com/best-practices/component-architecture/)
+- [Design System for Figma — The Power of Dynamic Elements](https://medium.com/@juauz/design-system-for-figma-the-power-of-dynamic-elements-4ca4dc3e4524)
+- [Stack mirroring: Designing for code and coding for design](https://www.designsystems.com/stack-mirroring-designing-for-code-and-coding-for-design/)
+- [UI Designer’s Guide to Creating Forms & Inputs](https://medium.com/design-with-figma/ui-designers-guide-to-creating-forms-inputs-b6516f366a93)
+- [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
 
 ## Community
 
