@@ -1,0 +1,44 @@
+{
+  "excludeFiles": [
+    ".git",
+    "libs",
+    "node_modules",
+    "yaspeller",
+    "contributing.md"
+  ],
+  "lang": "en",
+  "fileExtensions": [
+    ".md"
+  ],
+  "dictionary": [
+    "UI",
+    "A curated",
+    "XD",
+    "(g|G)it(h|H)ub",
+    "Figlight",
+    "RPC",
+    "iframe",
+    "JS",
+    "js",
+    "GraphQL",
+    "graphql",
+    "ds",
+    "Figmac",
+    "(f|F)igma",
+    "FigmaThird",
+    "Themer",
+    "figplug",
+    "jsonrpc",
+    "jsx",
+    "svg",
+    "ui",
+    "vs",
+    "InVision",
+    "LaTeX",
+    "pdf",
+    "api",
+    "linux",
+    "Pdf",
+    "ubuntu"
+  ]
+}
