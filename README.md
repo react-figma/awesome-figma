@@ -81,7 +81,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-theme](https://github.com/jxnblk/figma-theme) - Generate development-ready theme JSON files from Figma Styles.
 * [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) - A Dart code generator that converts Figma components to Flutter widgets. 
 * [Figma to web](https://github.com/Severenit/figma-to-web) - This repository will collect all developments related to the integration of Figma to Web.
-* [figma-and-production](figma-and-production) - An example of how you can sync Figma & production.
+* [figma-and-production](https://github.com/simareeno/figma-and-production) - An example of how you can sync Figma & production.
 
 ## Clients
 
