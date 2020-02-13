@@ -8,13 +8,16 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 --
 
+## Contents
+
 * [Videos](#videos) 
 * [Articles](#articles) 
 * [Community](#community) 
-* [Plugins](#open-source-plugins) 
+* [Open-Source Plugins](#open-source-plugins) 
+* [Plugins development](#plugins-development)
 * [Templates & UI Kits](#templates--ui-kits)
-* [Integration](#rest-api-integrations)
-* [Other](#other)
+* [Rest API integrations](#rest-api-integrations)
+* [Clients](#clients)
 
 ## Videos
 
