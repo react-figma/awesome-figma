@@ -1,5 +1,7 @@
 # Awesome Figma [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="figma-logo.svg" align="right" width="100">](https://www.figma.com)
+
 > [**Figma**](https://www.figma.com/) is the first interface design tool with real-time collaboration. 
 
 A curated list of awesome Figma stuff that focused on integration Figma and development, e.g. Figma Plugins, Figma Rest API.
