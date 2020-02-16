@@ -8,8 +8,6 @@ A curated list of awesome Figma stuff that focused on integration Figma and deve
 
 Found something cool? Please, **[contribute](contributing.md)**!
 
---
-
 ## Contents
 
 * [Videos](#videos) 
