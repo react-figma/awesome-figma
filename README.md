@@ -40,6 +40,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Stack mirroring: Designing for code and coding for design](https://www.designsystems.com/stack-mirroring-designing-for-code-and-coding-for-design/)
 * [UI Designers Guide to Creating Forms & Inputs](https://medium.com/design-with-figma/ui-designers-guide-to-creating-forms-inputs-b6516f366a93)
 * [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
+* [The UX of Figma Plugins](https://medium.com/@yuanqing/the-ux-of-figma-plugins-f4f896f8cf35)
 
 ## Community
 
