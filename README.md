@@ -54,7 +54,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Figlight](https://github.com/jeetiss/figlight) - Code highlighter for Figma.
 * [FigmaThird](https://github.com/ahkohd/FigmaThird) - Import, lit and use 3D models right there in Figma.
 * [svg-to-jsx](https://github.com/SaraVieira/svg-to-jsx) - Figma plugin to copy svg as a react component.
-* [figma-latex-complete-plugin](https://github.com/maxkrieger/figma-latex-complete-plugin) - Put LaTeX into your figma documents.
+* [figma-latex-complete-plugin](https://github.com/maxkrieger/figma-latex-complete-plugin) - Put LaTeX into your Figma documents.
 
 
 ## Plugins development
@@ -78,7 +78,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-api-demo](https://github.com/figma/figma-api-demo) - This project contains demo apps using the Figma API.
 * [Figma.js](https://github.com/jongold/figma-js) - A simple JS wrapper for the Figma API.
 * [figma-graphql](https://github.com/braposo/figma-graphql) - A GraphQL connector for the Figma API.
-* [Figma-To-Pdf](https://github.com/gweltaz-calori/Figma-To-Pdf) - A simple demo of exporting pdf from figma using the API.
+* [Figma-To-Pdf](https://github.com/gweltaz-calori/Figma-To-Pdf) - A simple demo of exporting pdf from Figma using the API.
 * [figma-theme](https://github.com/jxnblk/figma-theme) - Generate development-ready theme JSON files from Figma Styles.
 * [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) - A Dart code generator that converts Figma components to Flutter widgets. 
 * [Figma to web](https://github.com/Severenit/figma-to-web) - This repository will collect all developments related to the integration of Figma to Web.
