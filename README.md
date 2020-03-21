@@ -89,11 +89,3 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Figmac](https://figmac.com/) - A super lightweight Figma desktop app that delivers a more natural Mac experience.
 * [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) - Figma, Snap Package (unofficial).
 * [figma-linux](https://github.com/ChugunovRoman/figma-linux) - Figma electron app (unofficial).
-
-
-
----
-
-###### LICENSE
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
