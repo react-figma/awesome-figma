@@ -85,6 +85,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-to-flutter](https://github.com/aloisdeniel/figma-to-flutter) - A Dart code generator that converts Figma components to Flutter widgets. 
 * [Figma to web](https://github.com/Severenit/figma-to-web) - This repository will collect all developments related to the integration of Figma to Web.
 * [figma-and-production](https://github.com/simareeno/figma-and-production) - An example of how you can sync Figma & production.
+* [Figma Asset Downloader](https://robertohuertasm.github.io/figma-asset-downloader) - Optimize and download assets directly to your computer.
 
 ## Clients
 
