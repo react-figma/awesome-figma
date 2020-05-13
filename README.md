@@ -55,6 +55,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [FigmaThird](https://github.com/ahkohd/FigmaThird) - Import, lit and use 3D models right there in Figma.
 * [svg-to-jsx](https://github.com/SaraVieira/svg-to-jsx) - Figma plugin to copy svg as a react component.
 * [figma-latex-complete-plugin](https://github.com/maxkrieger/figma-latex-complete-plugin) - Put LaTeX into your Figma documents.
+* [system.colors](https://github.com/thelittlewonder/system.colors) - Import color palettes from popular design systems.
 
 
 ## Plugins development
