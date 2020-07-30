@@ -56,6 +56,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [svg-to-jsx](https://github.com/SaraVieira/svg-to-jsx) - Figma plugin to copy svg as a react component.
 * [figma-latex-complete-plugin](https://github.com/maxkrieger/figma-latex-complete-plugin) - Put LaTeX into your Figma documents.
 * [system.colors](https://github.com/thelittlewonder/system.colors) - Import color palettes from popular design systems.
+* [figma-speech-recognition](https://github.com/sonnylazuardi/figma-speech-recognition) - Hey Figma Speech Recognition. 
 
 
 ## Plugins development
