@@ -18,6 +18,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Templates & UI Kits](#templates--ui-kits)
 * [Rest API integrations](#rest-api-integrations)
 * [Clients](#clients)
+* [Converters](#converters)
 
 ## Videos
 
@@ -95,3 +96,8 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [Figmac](https://figmac.com/) - A super lightweight Figma desktop app that delivers a more natural Mac experience.
 * [figma-app-ubuntu](https://github.com/302bis/figma-app-ubuntu) - Figma, Snap Package (unofficial).
 * [figma-linux](https://github.com/ChugunovRoman/figma-linux) - Figma electron app (unofficial).
+
+## Converters
+
+* [Aeux](https://aeux.io/) - Easily move Figma designs to Adobe After Effects.
+* [Figma to Sketch/XD Converter](https://xd2sketch.com) - Allows you to convert and open Figma designs in Sketch and Adobe XD.
