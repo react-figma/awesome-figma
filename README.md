@@ -91,6 +91,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-and-production](https://github.com/simareeno/figma-and-production) - An example of how you can sync Figma & production.
 * [Figma Asset Downloader](https://robertohuertasm.github.io/figma-asset-downloader) - Optimize and download assets directly to your computer.
 * [figma-slack-updates](https://github.com/jordansinger/figma-slack-updates) - Post updates to Slack from a Figma file's version history.
+* [figma-tools](https://github.com/souporserious/figma-tools) - Tools to help you programmatically interact with your Figma files.
 
 ## Clients
 
