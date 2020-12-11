@@ -59,6 +59,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [system.colors](https://github.com/thelittlewonder/system.colors) - Import color palettes from popular design systems.
 * [figma-speech-recognition](https://github.com/sonnylazuardi/figma-speech-recognition) - Hey Figma Speech Recognition.
 * [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
+* [html-figma](https://github.com/BuilderIO/html-figma) - Plugin to import HTML into Figma layers.
 
 
 ## Plugins development
