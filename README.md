@@ -60,6 +60,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-speech-recognition](https://github.com/sonnylazuardi/figma-speech-recognition) - Hey Figma Speech Recognition.
 * [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.
 * [html-figma](https://github.com/BuilderIO/html-figma) - Plugin to import HTML into Figma layers.
+* [tailwindcss-figma-plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Figma Plugin for TailwindCSS.
 
 
 ## Plugins development
