@@ -97,6 +97,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-slack-updates](https://github.com/jordansinger/figma-slack-updates) - Post updates to Slack from a Figma file's version history.
 * [figma-tools](https://github.com/souporserious/figma-tools) - Tools to help you programmatically interact with your Figma files.
 * [figma-export](https://github.com/RedMadRobot/figma-export) - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
+* [figma-lottie](https://github.com/robinetbatman/figma-lottie) - Figma Lottie integration.
 
 ## Clients
 
