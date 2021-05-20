@@ -50,6 +50,7 @@
     "tailwindcss",
     "TailwindCSS",
     "Xcode",
-    "lottie"
+    "lottie",
+    "prebuilt"
   ]
 }
