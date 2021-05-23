@@ -77,6 +77,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Templates & UI Kits
 
+* [free-figma-bootstrap-5-ui-kit](https://themeselection.com/products/free-figma-bootstrap-ui-kit/) - Design faster with a collection of prebuilt Figma components with powerful auto layout and resizing constraints.
 * [figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds) - A small lightweight design system for use in Figma Plugins.
 * [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) - An unofficial set of Figma UI components.
 * [figma-styled-components](https://github.com/jhardy/figma-styled-components) - Figma UI styled components.
