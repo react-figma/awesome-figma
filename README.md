@@ -86,6 +86,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Rest API integrations
 
 * [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) - Embed Figma designs in a storybook panel.
+* [figma-assets-export](https://github.com/ohkimur/figma-assets-export) - Export assets from Figma and download them as local files.
 * [figma-api-demo](https://github.com/figma/figma-api-demo) - This project contains demo apps using the Figma API.
 * [Figma.js](https://github.com/jongold/figma-js) - A simple JS wrapper for the Figma API.
 * [figma-graphql](https://github.com/braposo/figma-graphql) - A GraphQL connector for the Figma API.
