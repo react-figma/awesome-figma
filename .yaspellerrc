@@ -51,6 +51,7 @@
     "TailwindCSS",
     "Xcode",
     "lottie",
-    "prebuilt"
+    "prebuilt",
+    "figx"
   ]
 }
