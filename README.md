@@ -73,7 +73,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-messenger](https://github.com/okotoki/figma-messenger) - Type-safe iframe - main thread communication.
 * [figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) - A collection of useful helper functions to import to your Figma plugin project.
 * [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - A comprehensive toolkit for developing Figma plugins.
-* [@figma-plugin/types](https://github.com/figma-plugin-helper-functions/types) - Figma plugin types.
+* [figx](https://github.com/n0ruSh/figx) - A comprehensive and reliable figma utilities library.
 
 ## Templates & UI Kits
 
