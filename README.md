@@ -82,6 +82,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) - An unofficial set of Figma UI components.
 * [figma-styled-components](https://github.com/jhardy/figma-styled-components) - Figma UI styled components.
 * [tailwindcss-figma-kit](https://github.com/impulse/tailwindcss-figma-kit) - Figma Kit for TailwindCSS.
+* [flowbite-figma-design-system](https://flowbite.com/figma/) - Freemium design system built for Tailwind CSS.
 
 ## Rest API integrations
 
