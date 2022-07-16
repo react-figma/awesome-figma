@@ -52,6 +52,8 @@
     "Xcode",
     "lottie",
     "prebuilt",
-    "figx"
+    "figx",
+    "Python3",
+    "FigmaPy"
   ]
 }

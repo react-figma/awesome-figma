@@ -86,7 +86,6 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Rest API integrations
 
 * [storybook-addon-figma](https://github.com/hharnisc/storybook-addon-figma) - Embed Figma designs in a storybook panel.
-* [figma-assets-export](https://github.com/ohkimur/figma-assets-export) - Export assets from Figma and download them as local files.
 * [figma-api-demo](https://github.com/figma/figma-api-demo) - This project contains demo apps using the Figma API.
 * [Figma.js](https://github.com/jongold/figma-js) - A simple JS wrapper for the Figma API.
 * [figma-graphql](https://github.com/braposo/figma-graphql) - A GraphQL connector for the Figma API.
@@ -100,6 +99,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-tools](https://github.com/souporserious/figma-tools) - Tools to help you programmatically interact with your Figma files.
 * [figma-export](https://github.com/RedMadRobot/figma-export) - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
 * [figma-lottie](https://github.com/robinetbatman/figma-lottie) - Figma Lottie integration.
+* [FigmaPy](https://github.com/Amatobahn/FigmaPy) - An unofficial Python3+ wrapper for Figma API.
 
 ## Clients
 
