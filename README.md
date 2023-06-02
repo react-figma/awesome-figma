@@ -74,6 +74,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) - A collection of useful helper functions to import to your Figma plugin project.
 * [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - A comprehensive toolkit for developing Figma plugins.
 * [figx](https://github.com/n0ruSh/figx) - A comprehensive and reliable figma utilities library.
+* [figma-plugin-react-template](https://github.com/nirsky/figma-plugin-react-template) — Quickstart your Figma Plugin with this template and tooling.
 
 ## Templates & UI Kits
 
