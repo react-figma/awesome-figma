@@ -111,4 +111,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Converters
 
 * [Aeux](https://aeux.io/) - Easily move Figma designs to Adobe After Effects.
-* [Figma to Sketch/XD Converter](https://xd2sketch.com) - Allows you to convert and open Figma designs in Sketch and Adobe XD.
+* [Figma to Sketch/XD Converter](https://magicul.io) - Allows you to convert and open Figma designs in Sketch and Adobe XD.
