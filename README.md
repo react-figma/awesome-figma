@@ -75,6 +75,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - A comprehensive toolkit for developing Figma plugins.
 * [figx](https://github.com/n0ruSh/figx) - A comprehensive and reliable figma utilities library.
 * [figma-plugin-react-template](https://github.com/nirsky/figma-plugin-react-template) — Quickstart your Figma Plugin with this template and tooling.
+* [figma-plugin-react-vite](https://github.com/CoconutGoodie/figma-plugin-react-vite) — A figma plugin boilerplate, that simplifies building plugins with React + Vite.
 
 ## Templates & UI Kits
 
