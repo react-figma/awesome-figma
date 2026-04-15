@@ -102,6 +102,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-export](https://github.com/RedMadRobot/figma-export) - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
 * [figma-lottie](https://github.com/robinetbatman/figma-lottie) - Figma Lottie integration.
 * [FigmaPy](https://github.com/Amatobahn/FigmaPy) - An unofficial Python3+ wrapper for Figma API.
+* [Mimic AI](https://github.com/miapre/mimic-ai) - Transforms HTML into Figma using only your design system, enforcing correct component usage and falling back safely when needed, while improving accuracy with every build.
 
 ## Clients
 
