@@ -84,6 +84,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) - An unofficial set of Figma UI components.
 * [figma-styled-components](https://github.com/jhardy/figma-styled-components) - Figma UI styled components.
 * [tailwindcss-figma-kit](https://github.com/impulse/tailwindcss-figma-kit) - Figma Kit for TailwindCSS.
+* [Chinese Color Atlas sample](https://www.figma.com/community/file/1637863774550903181) - Figma Variables starter file for Chinese traditional colors with Guochao, Song-inspired, and Dunhuang palette modes.
 
 ## Rest API integrations
 
