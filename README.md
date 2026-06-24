@@ -113,3 +113,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [Aeux](https://aeux.io/) - Easily move Figma designs to Adobe After Effects.
 * [Figma to Sketch/XD Converter](https://magicul.io) - Allows you to convert and open Figma designs in Sketch and Adobe XD.
+* [Figma Restore](https://github.com/carmenmooo/ai-skill-hub/tree/main/figma-restore) - AI-powered Figma to code pixel-perfect restoration skill. Three MCP tools coordinate a 4-phase workflow (locate → download → implement → verify) with 6-dimension pixel verification. Works with Claude Code, Cursor, Codex, and other AI coding assistants.
