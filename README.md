@@ -84,6 +84,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) - An unofficial set of Figma UI components.
 * [figma-styled-components](https://github.com/jhardy/figma-styled-components) - Figma UI styled components.
 * [tailwindcss-figma-kit](https://github.com/impulse/tailwindcss-figma-kit) - Figma Kit for TailwindCSS.
+* [Frames X](https://framesxdesign.com/) - Figma UI kit and design system with variable-driven components, states, and page templates.
 
 ## Rest API integrations
 
