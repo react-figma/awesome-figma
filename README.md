@@ -113,3 +113,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [Aeux](https://aeux.io/) - Easily move Figma designs to Adobe After Effects.
 * [Figma to Sketch/XD Converter](https://magicul.io) - Allows you to convert and open Figma designs in Sketch and Adobe XD.
+* [Illustrator to Figma Importer](https://tanglement.ai/figma-importer/) - Imports every artboard of an Illustrator .ai or multi-page PDF into Figma as editable layers. Paid.
