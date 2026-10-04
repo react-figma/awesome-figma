@@ -113,3 +113,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [Aeux](https://aeux.io/) - Easily move Figma designs to Adobe After Effects.
 * [Figma to Sketch/XD Converter](https://magicul.io) - Allows you to convert and open Figma designs in Sketch and Adobe XD.
+* [draw.io and Visio to FigJam Importer](https://tanglement.ai/figjam-diagram-importer/) - Brings draw.io and Visio diagrams into FigJam as real shapes, stickies and connectors. Paid.
