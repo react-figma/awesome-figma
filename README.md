@@ -113,3 +113,4 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 * [Aeux](https://aeux.io/) - Easily move Figma designs to Adobe After Effects.
 * [Figma to Sketch/XD Converter](https://magicul.io) - Allows you to convert and open Figma designs in Sketch and Adobe XD.
+* [UiChemy](https://uichemy.com) - Converts Figma designs into native, editable WordPress pages (Elementor, Gutenberg, Bricks).
