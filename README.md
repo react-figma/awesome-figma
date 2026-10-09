@@ -84,6 +84,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 * [figma-ui-components](https://github.com/lessmess-dev/figma-ui-components) - An unofficial set of Figma UI components.
 * [figma-styled-components](https://github.com/jhardy/figma-styled-components) - Figma UI styled components.
 * [tailwindcss-figma-kit](https://github.com/impulse/tailwindcss-figma-kit) - Figma Kit for TailwindCSS.
+* [Viola UI](https://www.figma.com/community/file/1666017684356201498) - Fintech and investing design system for Figma, with every screen built on one consistent portfolio dataset.
 
 ## Rest API integrations
 
