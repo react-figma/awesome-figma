@@ -46,7 +46,7 @@ Found something cool? Please, **[contribute](contributing.md)**!
 ## Community
 
 * [Figma Plugins Slack](https://figmaplugins.slack.com)
-* [Figma Spectrum](https://spectrum.chat/figma?tab=posts)
+ 
 
 ## Open-Source Plugins
 
@@ -111,5 +111,5 @@ Found something cool? Please, **[contribute](contributing.md)**!
 
 ## Converters
 
-* [Aeux](https://aeux.io/) - Easily move Figma designs to Adobe After Effects.
+* [Figma to Shopify](https://swavent.com/en/services/figma-to-shopify) - Convert Figma designs into a Shopify store.
 * [Figma to Sketch/XD Converter](https://magicul.io) - Allows you to convert and open Figma designs in Sketch and Adobe XD.
